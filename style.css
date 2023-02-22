@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Sarala', sans-serif;
+}
+
+body {
+    background-color:  black;
+    color: white;
+    
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.enfase-rosa {
+    color: #EB0E6D;
+}
+
+#video-incorporado {
+    border-radius: 10px;
+}
+
+#menu-navegacao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.btn-comprar {
+    background-color: #EB0E6D;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    height: 40px;
+    text-decoration: none;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-comprar:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+#produtor-de-conteudo {
+    background-image: url('./img/mayara\ andrade\,\ metodo\ vendedora\ digital.webp');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+#o-curso {
+    background-image: url('./img/Método\ Vendedora\ Digital.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+
+#conteudo-suporte {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.suporte {
+    background-color: lightskyblue;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+    height: 15px;
+    text-decoration: none;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.suporte:hover {
+    background-color: gold;
+    color: black;
+}
+
+footer {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    align-content: center;
+}
+
+#menu-contatos {
+    background-color: white;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 30px;
+}
+
+.contatos {
+    width: 20px;
+    height: 20px;
+}
+
+.contatos:hover {
+    background-color: deeppink;
+}
+
+.contatos:hover {
+    background-color: goldenrod;   
+}
+
+#footer-viladev {
+    color: white;
+    text-decoration: none;
+}

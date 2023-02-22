@@ -1,0 +1,1257 @@
+@media screen and (max-width: 2560px){
+    body {max-width: 2560px;}
+    header {height: 400px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 250px;}
+    h1 {font-size: 30px;}
+    h2 {font-size: 28px;}
+    #video-incorporado {width: 2000px; height: 1024px;}
+    main {height: 1300px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 26px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 40px;
+        font-size: 26px;
+    }
+
+    #conteudo-suporte {
+        height: 300px;
+    }
+
+    footer {height: 150px;}
+    .suporte {
+        height: 40px;
+        font-size: 20px;
+    }
+
+    .contatos {
+        height: 40px;
+        width: 40px;
+        font-size: 20px;
+    }
+
+    #menu-contatos {
+        width: 2560px;
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 1920px){
+    body {max-width: 1920px;}
+    header {height: 400px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 250px;}
+    h1 {font-size: 28px;}
+    h2 {font-size: 26px;}
+    #video-incorporado {width: 1600px; height: 900px;}
+    main {height: 1110px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 24px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 40px;
+        font-size: 20px;
+    }
+
+    #conteudo-suporte {
+        height: 250px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 40px;
+        font-size: 20px;
+    }
+
+    .contatos {
+        height: 35px;
+        width: 35px;
+    }
+
+    #menu-contatos {
+        width: 1920px;
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 1440px){
+    body {max-width: 1440px;}
+    header {height: 350px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 200px;}
+    h1 {font-size: 24px;}
+    h2 {font-size: 22px;}
+    #video-incorporado {width: 1382px; height: 768px;}
+    main {height: 1000px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 20px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 20px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 20px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 1440px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 1382px){
+    body {max-width: 1382px;}
+    header {height: 300px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 150px;}
+    h1 {font-size: 22px;}
+    h2 {font-size: 20px;}
+    #video-incorporado {width: 1200px; height: 768px;}
+    main {height: 900px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 18px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 1382px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    body {max-width: 1200px;}
+    header {height: 300px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 150px;}
+    h1 {font-size: 22px;}
+    h2 {font-size: 20px;}
+    #video-incorporado {width: 1024px; height: 600px;}
+    main {height: 800px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 18px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 18px;
+    }
+    
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 1200px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 1080px){
+    body {max-width: 1080px;}
+    header {height: 300px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 150px;}
+    h1 {font-size: 22px;}
+    h2 {font-size: 20px;}
+    #video-incorporado {width: 1024px; height: 600px;}
+    main {height: 800px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 18px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 1080px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    body {max-width: 1024px;}
+    header {height: 300px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 150px;}
+    h1 {font-size: 22px;}
+    h2 {font-size: 20px;}
+    #video-incorporado {width: 900px; height: 600px;}
+    main {height: 750px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 18px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 18px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 1024px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 992px){
+    body {max-width: 992px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 850px; height: 550px;}
+    main {height: 700px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 16px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 16px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 992px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    body {max-width: 900px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 20px;}
+    h2 {font-size: 18px;}
+    #video-incorporado {width: 850px; height: 450px;}
+    main {height: 650px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 16px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 16px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 16px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 900px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    body {max-width: 800px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 20px;}
+    h2 {font-size: 18px;}
+    #video-incorporado {width: 750px; height: 450px;}
+    main {height: 600px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 16px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 25px;
+        font-size: 16px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 16px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 800px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    body {max-width: 768px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 20px;}
+    h2 {font-size: 18px;}
+    #video-incorporado {width: 700px; height: 450px;}
+    main {height: 600px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 16px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 768px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 725px){
+    body {max-width: 725px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 650px; height: 400px;}
+    main {height: 550px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 725px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    body {max-width: 700px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 650px; height: 400px;}
+    main {height: 550px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 700px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 675px){
+    body {max-width: 675px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 600px; height: 400px;}
+    main {height: 525px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 675px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 650px){
+    body {max-width: 650px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 600px; height: 400px;}
+    main {height: 525px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 650px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 625px){
+    body {max-width: 625px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 600px; height: 400px;}
+    main {height: 525px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 625px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    body {max-width: 600px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 550px; height: 400px;}
+    main {height: 525px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 600px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 575px){
+    body {max-width: 575px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 550px; height: 400px;}
+    main {height: 525px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 575px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    body {max-width: 550px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 500px; height: 350px;}
+    main {height: 500px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 550px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 525px){
+    body {max-width: 525px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 500px; height: 350px;}
+    main {height: 500px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 525px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    body {max-width: 500px;}
+    header {height: 250px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 120px;}
+    h1 {font-size: 18px;}
+    h2 {font-size: 16px;}
+    #video-incorporado {width: 450px; height: 300px;}
+    main {height: 425px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 14px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 500px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 475px){
+    body {max-width: 475px;}
+    header {height: 220px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 110px;}
+    h1 {font-size: 17px;}
+    h2 {font-size: 15px;}
+    #video-incorporado {width: 450px; height: 300px;}
+    main {height: 425px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 13px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 475px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 450px){
+    body {max-width: 450px;}
+    header {height: 200px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 100px;}
+    h1 {font-size: 16px;}
+    h2 {font-size: 14px;}
+    #video-incorporado {width: 375px; height: 275px;}
+    main {height: 400px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 12px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 450px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    body {max-width: 425px;}
+    header {height: 200px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 100px;}
+    h1 {font-size: 16px;}
+    h2 {font-size: 14px;}
+    #video-incorporado {width: 375px; height: 275px;}
+    main {height: 400px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 12px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+    
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 425px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    body {max-width: 375px;}
+    header {height: 200px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 100px;}
+    h1 {font-size: 14px;}
+    h2 {font-size: 14px;}
+    #video-incorporado {width: 350px; height: 250px;}
+    main {height: 400px;}
+
+    aside {
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 11px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        height: 200px;
+    }
+
+    footer {height: 100px;}
+
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 375px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    body {max-width: 320px;}
+    header {height: 200px;}
+    #menu-navegacao {line-height: 30px;}
+    #logo {width: 100px;}
+    h1 {font-size: 14px;}
+    h2 {font-size: 14px;}
+    #video-incorporado {width: 300px; height: 200px;}
+    main {height: 350px;}
+
+    aside {
+        width: 300px;
+        margin: 10px;
+        height: 500px;
+    }
+
+    p {
+        font-size: 11px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .btn-comprar {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #conteudo-suporte {
+        width: 300px;
+        height: 200px;
+    }
+
+    .suporte {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    footer {height: 100px;}
+
+    .contatos {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    #menu-contatos {
+        width: 320px;
+        height: 30px;
+    }
+}
